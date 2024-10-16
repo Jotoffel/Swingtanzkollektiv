@@ -26,5 +26,5 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 # Video
  ![[Mara und Joris Spätzlehop Lindy Move.mp4]]
 
-![](https://youtu.be/fx2HXs704S0?si=Pc_wMmpNRrGYJq7autoplay=1&loop=1&rel=0&Start=2&End=6)
+![](https://youtu.be/fx2HXs704S0?si=Pc_wMmpNRrGYJq7autoplay=1&loop=1&rel=0&Playsinline=1&Start=2&End=6)
 
