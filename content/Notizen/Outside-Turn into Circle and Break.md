@@ -24,6 +24,7 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 # Styling
 
 # Video
+![](https://box.fu-berlin.de/s/5Aj4yxwQWGCxA8e#t=50,54)
 
-![](https://youtu.be/fx2HXs704S0?si=Pc_wMmpNRrGYJq7autoplay=1&loop=1&rel=0&Playsinline=1&Start=2&End=6)
+![](https://youtu.be/fx2HXs704S0?si=Q1YvfHCXRAvofzb9)
 
