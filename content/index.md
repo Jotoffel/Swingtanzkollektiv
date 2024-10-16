@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Willkommen im Swingtanzkollektiv
 ---
 
 - [[content/Notizen/Outside-Turn into Circle and Break.md|Outside-Turn into Circle and Break]]
