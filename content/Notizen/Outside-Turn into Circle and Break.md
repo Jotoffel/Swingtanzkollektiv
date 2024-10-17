@@ -24,7 +24,12 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 # Styling
 
 # Video
-![](https://box.fu-berlin.de/s/5Aj4yxwQWGCxA8e#t=50,54)
+
+<video controls autoplay loop preload="none" width="100%" 
+poster="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe">
+    <source src="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe/download/Mara%20und%20Joris%20Sp%C3%A4tzlehop%20Lindy%20Move.mp4#t=50,54"
+            type="video/mp4">
+</video>
 
 ![](https://youtu.be/fx2HXs704S0?si=Q1YvfHCXRAvofzb9)
 

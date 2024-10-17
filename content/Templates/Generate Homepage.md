@@ -1,4 +1,6 @@
+# Navigation
 
+## Lindy Hop Moves:
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
 const query = 'List Without ID "[["+file.name+"]]" FROM #LindyHop AND #Move WHERE file.name != "Generate Homepage"'
@@ -11,3 +13,4 @@ if ( result.successful ) {
   tR += "~~~~\n" + result.error + "\n~~~~"
 }
 %>
+
