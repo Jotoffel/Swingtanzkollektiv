@@ -24,11 +24,18 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 
 # Video
 
-<video controls loop preload="none" width="100%" 
+<video id='video' controls loop preload="none" width="100%" 
 poster="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe">
-    <source src="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe/download/Mara%20und%20Joris%20Sp%C3%A4tzlehop%20Lindy%20Move.mp4#t=5,7"
+    <source src="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe/download/Mara%20und%20Joris%20Sp%C3%A4tzlehop%20Lindy%20Move.mp4"
             type="video/mp4">
 </video>
+<script>
+    var video = document.getElementById('video');
 
-![](https://youtu.be/fx2HXs704S0?si=Q1YvfHCXRAvofzb9)
-
+    video.ontimeupdate = function(){
+        //3 below represent the 3 seconds from the original question, but could be set to anything
+        if (video.currentTime == 7 || video.currentTime < 3){
+            video.currentTime = 3
+        }
+    }
+    </script>
