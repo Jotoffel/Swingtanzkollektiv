@@ -2,7 +2,7 @@
 title: Willkommen im Swingtanzkollektiv
 ---
 
-Das ist bisland eine Baustelle und ein Testgelände. Alles ist Gegenstand konstanter Veränderungen.
+Das ist bislang eine Baustelle und ein Testgelände. Alles ist Gegenstand konstanter Veränderungen.
 
 [[Navigation]]
 

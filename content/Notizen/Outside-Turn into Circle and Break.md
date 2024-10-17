@@ -15,7 +15,6 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 
 # Technik
 
-
 |  **Count:**  | One  | Two  | Three | Four | Five  | Six  |  Seven  | Eight |
 | :----------: | :--: | :--: | :---: | :--: | :---: | :--: | :-----: | :---: |
 | **Scatter:** | Rock | Step |  He   | goes | Bring | Step | Tripple | Step  |
@@ -27,7 +26,7 @@ Das ist ein Move, den die Ella Fellas in der advanced class auf dem Spätzlehop 
 
 <video controls autoplay loop preload="none" width="100%" 
 poster="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe">
-    <source src="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe/download/Mara%20und%20Joris%20Sp%C3%A4tzlehop%20Lindy%20Move.mp4#t=50,54"
+    <source src="https://box.fu-berlin.de/s/o2qzSoKaMYBWDHe/download/Mara%20und%20Joris%20Sp%C3%A4tzlehop%20Lindy%20Move.mp4#t=5,7"
             type="video/mp4">
 </video>
 
